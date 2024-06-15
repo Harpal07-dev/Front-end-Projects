@@ -4,16 +4,16 @@ An attractive landing page of a travel Booking website.
 
 ## Programming languages used:
 
-HTML
-CSS
-SASS
+HTML.</br>
+CSS.</br>
+SASS.</br>
 
 ## Installation
 
-Download the zip project file.
-npm install -- to install necessary packages.
-cd sass
-npm run compile:sass
-Start live server/HTML server.
+Download the zip project file.</br>
+npm install -- to install necessary packages.</br>
+cd sass</br>
+npm run compile:sass</br>
+Start live server/HTML server.</br>
  
 
